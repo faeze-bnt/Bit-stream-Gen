@@ -4,7 +4,7 @@
 import numpy as np
 
 
-def Fugen_exact (Bit_Width, Parallel_deg, Input_number):
+def our_design_exact (Bit_Width, Parallel_deg, Input_number):
     Inp_value = int(Input_number*np.power(2, Bit_Width))
     #print ("Input_value", Inp_value)
     outp = np.zeros((Parallel_deg, int(np.power(2,Bit_Width)/Parallel_deg)), dtype=float, order='C')
