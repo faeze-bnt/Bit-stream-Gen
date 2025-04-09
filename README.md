@@ -1,8 +1,4 @@
-# Bit-stream-Gen
-
-
-
-**Comparison-Free Bit-Stream Generation for Cost-Efficient Unary Computing**
+# Comparison-Free Bit-Stream Generation 
 
 
 Unconventional hardware design techniques based on simple data representations are receiving more and more attention. Unary
