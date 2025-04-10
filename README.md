@@ -28,9 +28,15 @@ BibTeX:
   address={San Francisco, CA}
 }
 
-![error images](https://github.com/user-attachments/assets/72192f0a-3752-43cb-a553-6dbd62b7eb85)
-
 
 Note:
 
 To better understand the code, I strongly recommend following the paper's structure: begin with the serial design, then move on to the approximate parallel design, and finally, the exact parallel design code. This approach will provide a more insightful understanding of the concepts presented.
+
+
+
+Example:
+![error images](https://github.com/user-attachments/assets/72192f0a-3752-43cb-a553-6dbd62b7eb85)
+
+
+
