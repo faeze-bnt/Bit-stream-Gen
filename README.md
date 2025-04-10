@@ -14,17 +14,20 @@ converter in four use cases.
 
 If you use this repository or find it helpful in your work, please consider citing the publication:
 
-  Faeze S. Banitaba, Amir Hossein Jalilvand, M. Hassan Najafi, and Sercan Aygun, “Comparison-Free Bit-Stream Generation for Cost-Efficient Unary Computing,” The 62nd Design Automation Conference (DAC), San Francisco, CA, pp. 1–6, June 2025.
+**Faeze S. Banitaba, Amir Hossein Jalilvand, M. Hassan Najafi, and Sercan Aygun, “Comparison-Free Bit-Stream Generation for Cost-Efficient Unary Computing,” The 62nd Design Automation Conference (DAC), San Francisco, CA, pp. 1–6, June 2025.
+**
+BibTeX:
 
-  BibTeX:
-
-  @inproceedings{banitaba2025comparison,
-    title={Comparison-Free Bit-Stream Generation for Cost-Efficient Unary Computing},
-    author={Banitaba, Faeze S. and Jalilvand, Amir Hossein and Najafi, M. Hassan and Aygun, Sercan},
-    booktitle={Proceedings of the 62nd Design Automation Conference (DAC)},
-    pages={1--6},
-    year={2025},
-    address={San Francisco, CA}
-  }
+@inproceedings{banitaba2025comparison,
+  title={Comparison-Free Bit-Stream Generation for Cost-Efficient Unary Computing},
+  author={Banitaba, Faeze S. and Jalilvand, Amir Hossein and Najafi, M. Hassan and Aygun, Sercan},
+  booktitle={Proceedings of the 62nd Design Automation Conference (DAC)},
+  pages={1--6},
+  year={2025},
+  address={San Francisco, CA}
+}
 
 ![error images](https://github.com/user-attachments/assets/72192f0a-3752-43cb-a553-6dbd62b7eb85)
+
+
+Note:
