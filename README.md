@@ -14,8 +14,9 @@ converter in four use cases.
 
 If you use this repository or find it helpful in your work, please consider citing the publication:
 
-**Faeze S. Banitaba, Amir Hossein Jalilvand, M. Hassan Najafi, and Sercan Aygun, “Comparison-Free Bit-Stream Generation for Cost-Efficient Unary Computing,” The 62nd Design Automation Conference (DAC), San Francisco, CA, pp. 1–6, June 2025.
-**
+Faeze S. Banitaba, Amir Hossein Jalilvand, M. Hassan Najafi, and Sercan Aygun, “Comparison-Free Bit-Stream Generation for Cost-Efficient Unary Computing,” The 62nd Design Automation Conference (DAC), San Francisco, CA, pp. 1–6, June 2025.
+
+
 BibTeX:
 
 @inproceedings{banitaba2025comparison,
@@ -31,3 +32,5 @@ BibTeX:
 
 
 Note:
+
+To better understand the code, I strongly recommend following the paper's structure: begin with the serial design, then move on to the approximate parallel design, and finally, the exact parallel design code. This approach will provide a more insightful understanding of the concepts presented.
