@@ -1,4 +1,4 @@
-# Comparison-Free Bit-Stream Generation 
+# Comparison-Free Unary Bit-Stream Generation 
 
 
 Unconventional hardware design techniques based on simple data representations are receiving more and more attention. Unary
